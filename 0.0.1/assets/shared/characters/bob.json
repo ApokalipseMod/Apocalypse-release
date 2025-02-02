@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bob idle"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bob right"
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bob down"
+		},
+		{
+			"offsets": [
+				-29,
+				-1
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bob left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bob up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bob",
+	"position": [
+		-130,
+		-120
+	],
+	"healthicon": "zyler",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		220,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

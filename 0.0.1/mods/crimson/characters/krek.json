@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-168,
+				105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "KIdleLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-26
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "KIdleRight",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/crimsonkreker",
+	"position": [
+		20,
+		470
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

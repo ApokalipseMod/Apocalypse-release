@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crimsonpico.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PDown0000" x="58" y="58" width="442" height="267" frameX="0" frameY="-31" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PDown0001" x="58" y="58" width="442" height="267" frameX="0" frameY="-31" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PDown0002" x="600" y="58" width="398" height="291" frameX="-12" frameY="0" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PDown0003" x="600" y="58" width="398" height="291" frameX="-12" frameY="0" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PDown0004" x="600" y="58" width="398" height="291" frameX="-12" frameY="0" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PDown0005" x="600" y="58" width="398" height="291" frameX="-12" frameY="0" frameWidth="442" frameHeight="298"/>
+	<SubTexture name="PIdleLeft0000" x="1098" y="58" width="233" height="294" frameX="-20" frameY="-58" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0001" x="1098" y="58" width="233" height="294" frameX="-20" frameY="-58" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0002" x="1431" y="58" width="234" height="273" frameX="-34" frameY="-79" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0003" x="1431" y="58" width="234" height="273" frameX="-34" frameY="-79" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0004" x="58" y="452" width="470" height="307" frameX="0" frameY="-37" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0005" x="58" y="452" width="470" height="307" frameX="0" frameY="-37" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0006" x="628" y="452" width="450" height="279" frameX="-38" frameY="-13" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0007" x="628" y="452" width="450" height="279" frameX="-38" frameY="-13" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0008" x="1178" y="452" width="437" height="284" frameX="-39" frameY="0" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleLeft0009" x="1178" y="452" width="437" height="284" frameX="-39" frameY="0" frameWidth="488" frameHeight="352"/>
+	<SubTexture name="PIdleRight0000" x="58" y="859" width="309" height="284" frameX="-81" frameY="-101" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0001" x="58" y="859" width="309" height="284" frameX="-81" frameY="-101" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0002" x="467" y="859" width="231" height="270" frameX="-99" frameY="-108" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0003" x="467" y="859" width="231" height="270" frameX="-99" frameY="-108" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0004" x="798" y="859" width="244" height="351" frameX="-39" frameY="-35" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0005" x="798" y="859" width="244" height="351" frameX="-39" frameY="-35" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0006" x="1142" y="859" width="344" height="299" frameX="0" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0007" x="1142" y="859" width="344" height="299" frameX="0" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0008" x="1586" y="859" width="333" height="292" frameX="-7" frameY="-4" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PIdleRight0009" x="1586" y="859" width="333" height="292" frameX="-7" frameY="-4" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="PRight0000" x="58" y="1310" width="406" height="358" frameX="-27" frameY="-3" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PRight0001" x="58" y="1310" width="406" height="358" frameX="-27" frameY="-3" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PRight0002" x="564" y="1310" width="377" height="358" frameX="0" frameY="0" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PRight0003" x="564" y="1310" width="377" height="358" frameX="0" frameY="0" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PRight0004" x="564" y="1310" width="377" height="358" frameX="0" frameY="0" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PRight0005" x="564" y="1310" width="377" height="358" frameX="0" frameY="0" frameWidth="433" frameHeight="361"/>
+	<SubTexture name="PUp0000" x="1041" y="1310" width="315" height="514" frameX="0" frameY="0" frameWidth="331" frameHeight="514"/>
+	<SubTexture name="PUp0001" x="1041" y="1310" width="315" height="514" frameX="0" frameY="0" frameWidth="331" frameHeight="514"/>
+	<SubTexture name="PUp0002" x="1456" y="1310" width="320" height="434" frameX="-11" frameY="-38" frameWidth="331" frameHeight="514"/>
+	<SubTexture name="PUp0003" x="1456" y="1310" width="320" height="434" frameX="-11" frameY="-38" frameWidth="331" frameHeight="514"/>
+	<SubTexture name="PUp0004" x="1456" y="1310" width="320" height="434" frameX="-11" frameY="-38" frameWidth="331" frameHeight="514"/>
+	<SubTexture name="PUp0005" x="1456" y="1310" width="320" height="434" frameX="-11" frameY="-38" frameWidth="331" frameHeight="514"/>
+</TextureAtlas>

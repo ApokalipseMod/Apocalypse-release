@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "PIdleLeft"
+		},
+		{
+			"offsets": [
+				-5,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "PIdleRight"
+		},
+		{
+			"offsets": [
+				-15,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PDown"
+		},
+		{
+			"offsets": [
+				-15,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PDown"
+		},
+		{
+			"offsets": [
+				6,
+				153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PUp"
+		},
+		{
+			"offsets": [
+				-62,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/crimsonpico",
+	"position": [
+		50,
+		390
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

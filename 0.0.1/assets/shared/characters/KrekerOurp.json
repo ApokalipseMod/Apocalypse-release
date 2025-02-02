@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-33
+			],
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "Left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "Up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "Right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "Down",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				25
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-10
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/KrekerOurp",
+	"position": [
+		150,
+		470
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		60
+	],
+	"camera_position": [
+		400,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 5.00000000000001,
+	"_editor_isPlayer": true
+}

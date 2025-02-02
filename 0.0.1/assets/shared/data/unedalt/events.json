@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "newAlly",
+		"player1": "clone-picoV2",
+		"player2": "clone-kreker",
+		"player3": null,
+		"events": [
+			[
+				77241.3793103448,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.85"
+					],
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.8"
+					]
+				]
+			],
+			[
+				77586.2068965517,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.75"
+					]
+				]
+			],
+			[
+				78965.5172413793,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.85"
+					],
+					[
+						"Camera Rotate",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				80344.8275862069,
+				[
+					[
+						"Flash",
+						"1",
+						"white"
+					]
+				]
+			],
+			[
+				113448.275862069,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.65"
+					]
+				]
+			],
+			[
+				115172.413793103,
+				[
+					[
+						"Bloodgurst End",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"reloadTime": 100,
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"skipCountdown": false,
+		"gfVersion": "gf",
+		"shootingEnabled": true,
+		"bpm": 174,
+		"arrowSkin": "",
+		"emptyTime": 100,
+		"needsVoices": true,
+		"damage": 10,
+		"song": "unedibol"
+	}
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mouse_UI.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mouse0000" x="0" y="0" width="62" height="80" pivotX="0" pivotY="0.35"/>
+	<SubTexture name="mouse0001" x="0" y="0" width="62" height="80"/>
+	<SubTexture name="mouse0002" x="0" y="0" width="62" height="80"/>
+	<SubTexture name="mouse0003" x="62" y="0" width="62" height="79" frameX="0" frameY="0" frameWidth="62" frameHeight="80"/>
+	<SubTexture name="mouse0004" x="62" y="0" width="62" height="79" frameX="0" frameY="0" frameWidth="62" frameHeight="80"/>
+	<SubTexture name="mouse0005" x="62" y="0" width="62" height="79" frameX="0" frameY="0" frameWidth="62" frameHeight="80"/>
+	<SubTexture name="click0000" x="124" y="0" width="93" height="86" pivotX="16.5" pivotY="21.7" frameX="-3" frameY="-18" frameWidth="116" frameHeight="104"/>
+	<SubTexture name="click0001" x="124" y="0" width="93" height="86" frameX="-3" frameY="-18" frameWidth="116" frameHeight="104"/>
+	<SubTexture name="click0002" x="217" y="0" width="109" height="100" frameX="0" frameY="-4" frameWidth="116" frameHeight="104"/>
+	<SubTexture name="click0003" x="326" y="0" width="115" height="101" frameX="-1" frameY="0" frameWidth="116" frameHeight="104"/>
+	<SubTexture name="click0004" x="326" y="0" width="115" height="101" frameX="-1" frameY="0" frameWidth="116" frameHeight="104"/>
+	<SubTexture name="click0005" x="441" y="0" width="64" height="73" frameX="-19" frameY="-28" frameWidth="116" frameHeight="104"/>
+</TextureAtlas>

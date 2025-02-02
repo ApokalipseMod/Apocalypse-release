@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 48,
+			"name": "jovan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 48,
+			"name": "jovan right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 48,
+			"name": "jovan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 48,
+			"name": "jovan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 48,
+			"name": "jovan up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jovan",
+	"position": [
+		30,
+		-130
+	],
+	"healthicon": "jovan",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

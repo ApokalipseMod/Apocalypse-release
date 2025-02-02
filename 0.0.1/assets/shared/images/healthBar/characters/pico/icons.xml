@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PicoLosingHP0000" x="0" y="0" width="213" height="256" pivotX="0" pivotY="0" frameX="0" frameY="-4" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0001" x="0" y="0" width="213" height="256" frameX="0" frameY="-4" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0002" x="213" y="0" width="214" height="256" frameX="-1" frameY="0" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0003" x="213" y="0" width="214" height="256" frameX="-1" frameY="0" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0004" x="213" y="0" width="214" height="256" frameX="-1" frameY="0" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0005" x="427" y="0" width="235" height="234" frameX="-6" frameY="-17" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0006" x="427" y="0" width="235" height="234" frameX="-6" frameY="-17" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0007" x="427" y="0" width="235" height="234" frameX="-6" frameY="-17" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0008" x="662" y="0" width="216" height="235" frameX="-4" frameY="-15" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoLosingHP0009" x="662" y="0" width="216" height="235" frameX="-4" frameY="-15" frameWidth="241" frameHeight="260"/>
+	<SubTexture name="PicoNormalHP0000" x="0" y="256" width="213" height="255" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="214" frameHeight="255"/>
+	<SubTexture name="PicoNormalHP0001" x="0" y="256" width="213" height="255" frameX="0" frameY="0" frameWidth="214" frameHeight="255"/>
+	<SubTexture name="PicoNormalHP0002" x="0" y="256" width="213" height="255" frameX="0" frameY="0" frameWidth="214" frameHeight="255"/>
+	<SubTexture name="PicoNormalHP0003" x="0" y="256" width="213" height="255" frameX="0" frameY="0" frameWidth="214" frameHeight="255"/>
+	<SubTexture name="PicoNormalHP0004" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoNormalHP0005" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoNormalHP0006" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoNormalHP0007" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoNormalHP0008" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoNormalHP0009" x="213" y="256" width="214" height="255"/>
+	<SubTexture name="PicoWinningHP0000" x="427" y="256" width="214" height="256" pivotX="0" pivotY="0" frameX="0" frameY="-4" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0001" x="427" y="256" width="214" height="256" frameX="0" frameY="-4" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0002" x="641" y="256" width="213" height="256" frameX="-2" frameY="0" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0003" x="641" y="256" width="213" height="256" frameX="-2" frameY="0" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0004" x="641" y="256" width="213" height="256" frameX="-2" frameY="0" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0005" x="0" y="512" width="218" height="243" frameX="0" frameY="-5" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0006" x="0" y="512" width="218" height="243" frameX="0" frameY="-5" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0007" x="218" y="512" width="217" height="237" frameX="-1" frameY="-13" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0008" x="218" y="512" width="217" height="237" frameX="-1" frameY="-13" frameWidth="218" frameHeight="260"/>
+	<SubTexture name="PicoWinningHP0009" x="218" y="512" width="217" height="237" frameX="-1" frameY="-13" frameWidth="218" frameHeight="260"/>
+</TextureAtlas>

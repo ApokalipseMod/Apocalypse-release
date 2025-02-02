@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_radio.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="radio basic0000" x="0" y="0" width="472" height="175" pivotX="-111.05" pivotY="8.05" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio basic0001" x="0" y="0" width="472" height="175" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio basic0002" x="0" y="0" width="472" height="175" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio basic0003" x="0" y="175" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio basic0004" x="0" y="175" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio basic0005" x="0" y="175" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0000" x="0" y="348" width="472" height="175" pivotX="-111.05" pivotY="8.05" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0001" x="0" y="348" width="472" height="175" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0002" x="0" y="348" width="472" height="175" frameX="0" frameY="0" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0003" x="0" y="523" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0004" x="0" y="523" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+	<SubTexture name="radio white0005" x="0" y="523" width="473" height="173" frameX="-1" frameY="-1" frameWidth="474" frameHeight="175"/>
+</TextureAtlas>

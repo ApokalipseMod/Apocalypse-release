@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rob.png"><SubTexture name="rob left0000" x="140" y="320" width="148" height="284" frameX="-122" frameY="-39" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob idle0000" x="288" y="320" width="148" height="271" frameX="-122" frameY="-54" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob idle0001" x="436" y="320" width="148" height="251" frameX="-122" frameY="-77" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob idle0002" x="436" y="320" width="148" height="251" frameX="-122" frameY="-77" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob idle0003" x="288" y="320" width="148" height="271" frameX="-122" frameY="-54" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob idle0004" x="140" y="320" width="148" height="284" frameX="-122" frameY="-39" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob left0001" x="385" y="0" width="118" height="291" frameX="-104" frameY="-30" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob left0002" x="242" y="0" width="143" height="303" frameX="-58" frameY="-14" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob right0000" x="0" y="320" width="140" height="286" frameX="-135" frameY="-39" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob right0001" x="503" y="0" width="124" height="287" frameX="-172" frameY="-41" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob up0000" x="103" y="0" width="139" height="315" frameX="-131" frameY="-6" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob up0001" x="0" y="0" width="103" height="320" frameX="-193" frameY="0" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob down0000" x="627" y="0" width="256" height="147" frameX="-83" frameY="-191" frameWidth="352" frameHeight="352" />
+<SubTexture name="rob down0001" x="0" y="606" width="257" height="109" frameX="-83" frameY="-232" frameWidth="352" frameHeight="352" />
+</TextureAtlas>

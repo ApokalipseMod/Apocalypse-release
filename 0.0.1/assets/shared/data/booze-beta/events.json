@@ -1,0 +1,70 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "Clone-allyway",
+		"player1": "clone-pico",
+		"player2": "clone-kreker",
+		"player3": null,
+		"events": [
+			[
+				21176.4705882353,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.03"
+					],
+					[
+						"Camera Rotate",
+						"0.1",
+						"45"
+					]
+				]
+			],
+			[
+				21447.963800905,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.03"
+					],
+					[
+						"Camera Rotate",
+						"0.1",
+						"90"
+					]
+				]
+			],
+			[
+				21990.9502262443,
+				[
+					[
+						"Camera Rotate",
+						"0.5",
+						"360"
+					]
+				]
+			],
+			[
+				43438.9140271493,
+				[
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"skipCountdown": false,
+		"gfVersion": "gf",
+		"bpm": 221,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bloodgurst"
+	}
+}

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Heckler.png">
+<SubTexture name="Heckler idle0000" x="0" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0001" x="0" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0002" x="1080" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0003" x="1080" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0004" x="0" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0005" x="0" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0006" x="1080" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler idle0007" x="1080" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler right0000" x="2160" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler right0001" x="3240" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler right0002" x="3240" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler right0003" x="3240" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0000" x="0" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0001" x="1080" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0002" x="2160" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0003" x="2160" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0004" x="2160" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler down0005" x="2160" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler left0000" x="3240" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler left0001" x="4320" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler left0002" x="4320" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler left0003" x="4320" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0000" x="5400" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0001" x="5400" y="1920" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0002" x="0" y="3840" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0003" x="1080" y="3840" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0004" x="1080" y="3840" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="Heckler up0005" x="0" y="0" width="1080" height="1920" frameX="0" frameY="0" frameWidth="1080" frameHeight="1920" />
+</TextureAtlas>

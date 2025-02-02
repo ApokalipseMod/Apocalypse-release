@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				1,
+				-2
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-3,
+				1
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				2,
+				-3
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "UpAlt"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "RightAlt"
+		},
+		{
+			"offsets": [
+				1,
+				-4
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DownAlt"
+		},
+		{
+			"offsets": [
+				6,
+				-5
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "LeftAlt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VistaBeckler",
+	"position": [
+		-70,
+		230
+	],
+	"healthicon": "Beckler",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-160,
+		70
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

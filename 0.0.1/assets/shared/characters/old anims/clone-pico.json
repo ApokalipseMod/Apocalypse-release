@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PicoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Picoleft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				111,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "reload",
+			"loop": false,
+			"name": "PicoReload"
+		},
+		{
+			"offsets": [
+				301,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "empty",
+			"loop": false,
+			"name": "PicoEmptyClip"
+		},
+		{
+			"offsets": [
+				481,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shootalt",
+			"loop": false,
+			"name": "PicoShootAlt"
+		},
+		{
+			"offsets": [
+				569,
+				75
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "PicoShoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSprites",
+	"position": [
+		20,
+		150
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

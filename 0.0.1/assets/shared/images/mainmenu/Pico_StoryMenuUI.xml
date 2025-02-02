@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_StoryMenuUI.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PicoNormal0000" x="0" y="0" width="393" height="446" pivotX="0" pivotY="0"/>
+	<SubTexture name="PicoNormal0001" x="0" y="0" width="393" height="446"/>
+	<SubTexture name="PicoNormal0002" x="0" y="0" width="393" height="446"/>
+	<SubTexture name="PicoNormal0003" x="0" y="0" width="393" height="446"/>
+	<SubTexture name="PicoNormal0004" x="0" y="0" width="393" height="446"/>
+	<SubTexture name="PicoNormal0005" x="393" y="0" width="393" height="444" frameX="0" frameY="-2" frameWidth="393" frameHeight="446"/>
+	<SubTexture name="PicoNormal0006" x="393" y="0" width="393" height="444" frameX="0" frameY="-2" frameWidth="393" frameHeight="446"/>
+	<SubTexture name="PicoNormal0007" x="393" y="0" width="393" height="444" frameX="0" frameY="-2" frameWidth="393" frameHeight="446"/>
+	<SubTexture name="PicoNormal0008" x="393" y="0" width="393" height="444" frameX="0" frameY="-2" frameWidth="393" frameHeight="446"/>
+	<SubTexture name="PicoNormal0009" x="393" y="0" width="393" height="444" frameX="0" frameY="-2" frameWidth="393" frameHeight="446"/>
+</TextureAtlas>

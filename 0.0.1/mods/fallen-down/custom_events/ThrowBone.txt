@@ -1,0 +1,2 @@
+Value 1 = height, 0 for duck, 1 for jump
+Value 2 = type, 0 for basic, 1 for blue, 2 for orange

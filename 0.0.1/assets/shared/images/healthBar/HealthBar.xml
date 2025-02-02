@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HealthBar.png">
+<SubTexture name="full0000" x="0" y="0" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="90000" x="453" y="0" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="80000" x="906" y="0" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="70000" x="0" y="474" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="60000" x="453" y="474" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="50000" x="906" y="474" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="40000" x="1359" y="0" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="30000" x="1359" y="474" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="20000" x="0" y="948" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="10000" x="453" y="948" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+<SubTexture name="00000" x="906" y="948" width="453" height="474" frameX="-2" frameY="-1" frameWidth="455" frameHeight="475" />
+</TextureAtlas>

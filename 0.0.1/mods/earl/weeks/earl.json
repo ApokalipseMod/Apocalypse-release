@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Earl", "Earl", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"",
+		"kreker"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}

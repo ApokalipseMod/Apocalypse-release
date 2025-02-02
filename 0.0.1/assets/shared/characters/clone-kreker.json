@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				206,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				3,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-5,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				160,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hurt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				483,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "death",
+			"indices": [],
+			"name": "Dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KrekerSprites_v2",
+	"position": [
+		50,
+		410
+	],
+	"healthicon": "Kreker",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		0,
+		0
+	],
+	"camera_position": [
+		-370,
+		-160
+	],
+	"sing_duration": 10,
+	"scale": 1
+}

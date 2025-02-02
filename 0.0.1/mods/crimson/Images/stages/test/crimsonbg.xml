@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crimsonbg.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="movingbg0000" x="58" y="58" width="1933" height="853" frameX="-99" frameY="-39" frameWidth="2201" frameHeight="892"/>
+	<SubTexture name="movingbg0001" x="58" y="58" width="1933" height="853" frameX="-99" frameY="-39" frameWidth="2201" frameHeight="892"/>
+	<SubTexture name="movingbg0002" x="58" y="1011" width="2201" height="892"/>
+	<SubTexture name="movingbg0003" x="58" y="1011" width="2201" height="892"/>
+	<SubTexture name="movingbg0004" x="58" y="2003" width="1981" height="748" frameX="-107" frameY="-137" frameWidth="2201" frameHeight="892"/>
+	<SubTexture name="movingbg0005" x="58" y="2003" width="1981" height="748" frameX="-107" frameY="-137" frameWidth="2201" frameHeight="892"/>
+	<SubTexture name="movingbg0006" x="58" y="1011" width="2201" height="892"/>
+	<SubTexture name="movingbg0007" x="58" y="1011" width="2201" height="892"/>
+</TextureAtlas>

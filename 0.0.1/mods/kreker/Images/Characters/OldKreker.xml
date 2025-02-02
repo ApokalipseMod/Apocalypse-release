@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OldKreker.png">
+<SubTexture name="kreker idle0000" x="602" y="594" width="393" height="414" frameX="-434" frameY="-302" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0001" x="602" y="594" width="393" height="414" frameX="-434" frameY="-302" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0002" x="995" y="594" width="396" height="414" frameX="-433" frameY="-302" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0003" x="1186" y="1471" width="419" height="393" frameX="-427" frameY="-322" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0004" x="774" y="1471" width="412" height="397" frameX="-429" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0005" x="1527" y="0" width="405" height="403" frameX="-431" frameY="-312" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker idle0006" x="797" y="1063" width="404" height="405" frameX="-431" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker up0000" x="0" y="0" width="461" height="594" frameX="-399" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker up0001" x="461" y="0" width="453" height="591" frameX="-396" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker right0000" x="914" y="0" width="613" height="481" frameX="-340" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker right0001" x="0" y="594" width="602" height="469" frameX="-353" frameY="-249" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker down0000" x="0" y="1873" width="561" height="264" frameX="-348" frameY="-449" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker down0001" x="1932" y="0" width="521" height="279" frameX="-368" frameY="-435" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker left0000" x="0" y="1063" width="797" height="408" frameX="-343" frameY="-310" frameWidth="1280" frameHeight="720" />
+<SubTexture name="kreker left0001" x="0" y="1471" width="774" height="402" frameX="-347" frameY="-316" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

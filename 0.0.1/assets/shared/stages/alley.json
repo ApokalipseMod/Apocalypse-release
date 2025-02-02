@@ -1,0 +1,15 @@
+{
+	"directory": "kreker week 1",
+	"defaultZoom": 0.75,
+	"stageUI": "",
+
+	"boyfriend": [1145, 1485],
+	"girlfriend": [400, 1500],
+	"opponent": [145, 1480],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-200, 0],
+	"camera_opponent": [100, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

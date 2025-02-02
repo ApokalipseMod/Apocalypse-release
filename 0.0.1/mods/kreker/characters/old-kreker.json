@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kreker idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kreker left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kreker right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kreker up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kreker down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OldKreker",
+	"position": [
+		-380,
+		150
+	],
+	"healthicon": "kreker",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		0,
+		0
+	],
+	"camera_position": [
+		100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VistaBeckler.png">
+<SubTexture name="Idle0000" x="1189" y="0" width="295" height="453" frameX="-154" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="Down0000" x="1484" y="0" width="287" height="446" frameX="-154" frameY="-111" frameWidth="640" frameHeight="640" />
+<SubTexture name="Down0001" x="292" y="969" width="285" height="449" frameX="-159" frameY="-108" frameWidth="640" frameHeight="640" />
+<SubTexture name="Right0000" x="576" y="510" width="292" height="455" frameX="-156" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="Right0001" x="1189" y="453" width="292" height="453" frameX="-154" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="Left0000" x="895" y="0" width="294" height="459" frameX="-159" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="Left0001" x="0" y="510" width="294" height="459" frameX="-159" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="Up0000" x="0" y="969" width="292" height="451" frameX="-156" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="Up0001" x="577" y="969" width="283" height="449" frameX="-158" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="DownAlt0000" x="294" y="510" width="282" height="456" frameX="-160" frameY="-105" frameWidth="640" frameHeight="640" />
+<SubTexture name="DownAlt0001" x="868" y="510" width="286" height="454" frameX="-156" frameY="-105" frameWidth="640" frameHeight="640" />
+<SubTexture name="LeftAlt0000" x="1771" y="0" width="343" height="439" frameX="-72" frameY="-116" frameWidth="640" frameHeight="640" />
+<SubTexture name="LeftAlt0001" x="1771" y="439" width="339" height="436" frameX="-75" frameY="-121" frameWidth="640" frameHeight="640" />
+<SubTexture name="RightAlt0000" x="450" y="0" width="445" height="505" frameX="-158" frameY="-108" frameWidth="640" frameHeight="640" />
+<SubTexture name="RightAlt0001" x="0" y="0" width="450" height="510" frameX="-154" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="RightAlt0002" x="0" y="0" width="450" height="510" frameX="-154" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="RightAlt0003" x="0" y="0" width="450" height="510" frameX="-154" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="UpAlt0000" x="860" y="969" width="430" height="448" frameX="-159" frameY="-107" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

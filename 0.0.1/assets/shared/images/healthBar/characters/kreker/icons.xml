@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KrekerLosingHP0000" x="0" y="0" width="228" height="233" pivotX="0" pivotY="0" frameX="-37" frameY="-23" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0001" x="228" y="0" width="248" height="245" frameX="0" frameY="0" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0002" x="228" y="0" width="248" height="245" frameX="0" frameY="0" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0003" x="476" y="0" width="258" height="221" frameX="-33" frameY="-23" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0004" x="476" y="0" width="258" height="221" frameX="-33" frameY="-23" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0005" x="734" y="0" width="236" height="221" frameX="-39" frameY="-18" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0006" x="734" y="0" width="236" height="221" frameX="-39" frameY="-18" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0007" x="734" y="0" width="236" height="221" frameX="-39" frameY="-18" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0008" x="734" y="0" width="236" height="221" frameX="-39" frameY="-18" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerLosingHP0009" x="734" y="0" width="236" height="221" frameX="-39" frameY="-18" frameWidth="291" frameHeight="256"/>
+	<SubTexture name="KrekerNormalHP0000" x="0" y="245" width="228" height="233" pivotX="0" pivotY="0"/>
+	<SubTexture name="KrekerNormalHP0001" x="0" y="245" width="228" height="233"/>
+	<SubTexture name="KrekerNormalHP0002" x="0" y="245" width="228" height="233"/>
+	<SubTexture name="KrekerNormalHP0003" x="0" y="245" width="228" height="233"/>
+	<SubTexture name="KrekerNormalHP0004" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerNormalHP0005" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerNormalHP0006" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerNormalHP0007" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerNormalHP0008" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerNormalHP0009" x="228" y="245" width="227" height="232" frameX="0" frameY="0" frameWidth="228" frameHeight="233"/>
+	<SubTexture name="KrekerWinningHP0000" x="0" y="245" width="228" height="233" pivotX="0" pivotY="0"/>
+	<SubTexture name="KrekerWinningHP0001" x="455" y="245" width="220" height="193" frameX="-1" frameY="-40" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0002" x="455" y="245" width="220" height="193" frameX="-1" frameY="-40" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0003" x="675" y="245" width="217" height="227" frameX="-17" frameY="-9" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0004" x="675" y="245" width="217" height="227" frameX="-17" frameY="-9" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0005" x="675" y="245" width="217" height="227" frameX="-17" frameY="-9" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0006" x="0" y="478" width="206" height="217" frameX="-21" frameY="-12" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0007" x="0" y="478" width="206" height="217" frameX="-21" frameY="-12" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0008" x="0" y="478" width="206" height="217" frameX="-21" frameY="-12" frameWidth="234" frameHeight="236"/>
+	<SubTexture name="KrekerWinningHP0009" x="0" y="478" width="206" height="217" frameX="-21" frameY="-12" frameWidth="234" frameHeight="236"/>
+</TextureAtlas>

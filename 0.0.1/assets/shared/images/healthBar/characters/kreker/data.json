@@ -1,0 +1,13 @@
+{
+    "winning": "KrekerWinningHP",
+    "idle": "KrekerNormalHP",
+    "losing": "KrekerLosingHP",
+    "scaleOff": 0,
+    "winOffX": 24,
+    "winOffY": 21,
+    "idleOffX": 24,
+    "idleOffY": 21,
+    "losingOffX": 5,
+    "losingOffY": 13,
+    "flip": false
+}

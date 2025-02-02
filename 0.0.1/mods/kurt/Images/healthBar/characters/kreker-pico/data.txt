@@ -1,0 +1,13 @@
+{
+    "winning": "PicoYAY",
+    "idle": "Idle",
+    "losing": "AAA",
+    "scaleOff": 0.0325,
+    "winOffX": 20,
+    "winOffY": 12,
+    "idleOffX": 18,
+    "idleOffY": 13,
+    "losingOffX": 13,
+    "losingOffY": 16,
+    "flip": true
+}

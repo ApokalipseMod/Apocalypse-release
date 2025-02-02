@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BGKrekerIdle"
+		},
+		{
+			"offsets": [
+				103,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BGKrekerLeft"
+		},
+		{
+			"offsets": [
+				28,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BGKrekerRight"
+		},
+		{
+			"offsets": [
+				-31,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BGKrekerUp"
+		},
+		{
+			"offsets": [
+				-4,
+				-194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BGKrekerDown"
+		},
+		{
+			"offsets": [
+				257,
+				521
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hop",
+			"indices": [],
+			"name": "KrekerHop"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "walk",
+			"indices": [],
+			"name": "KrekerWalk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BG_Kreker",
+	"position": [
+		60,
+		340
+	],
+	"healthicon": "Kreker",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 10,
+	"scale": 1.1
+}

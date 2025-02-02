@@ -1,0 +1,275 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "old-allyway",
+		"player1": "kreco",
+		"player2": "old-kreker",
+		"player3": null,
+		"events": [
+			[
+				6648.64864864865,
+				[
+					[
+						"Fade Tween",
+						"0.2",
+						"2.3"
+					]
+				]
+			],
+			[
+				9081.08108108108,
+				[
+					[
+						"Fade Tween",
+						"1",
+						".5"
+					]
+				]
+			],
+			[
+				30081.0810810811,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						" 1.1"
+					]
+				]
+			],
+			[
+				31459.4594594594,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.9"
+					]
+				]
+			],
+			[
+				40378.3783783784,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.75"
+					]
+				]
+			],
+			[
+				41675.6756756757,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Fade Tween",
+						"0.2",
+						"2.5"
+					]
+				]
+			],
+			[
+				50594.5945945946,
+				[
+					[
+						"Fade Tween",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Camera Effect Thing",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				62270.2702702703,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"1.15"
+					]
+				]
+			],
+			[
+				63567.5675675676,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"1"
+					],
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79135.1351351351,
+				[
+					[
+						"Fade Tween",
+						".2",
+						"2.7"
+					]
+				]
+			],
+			[
+				81729.7297297297,
+				[
+					[
+						"Fade Tween",
+						"1",
+						".5"
+					]
+				]
+			],
+			[
+				81972.972972973,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"1"
+					]
+				]
+			],
+			[
+				88459.4594594594,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.75"
+					]
+				]
+			],
+			[
+				93162.1621621621,
+				[
+					[
+						"Camera Effect Thing",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				93324.3243243243,
+				[
+					[
+						"LetterBoxing",
+						"on",
+						"1"
+					]
+				]
+			],
+			[
+				98351.3513513513,
+				[
+					[
+						"Camera Effect Thing",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				101189.189189189,
+				[
+					[
+						"Fade Tween",
+						".5",
+						"2"
+					]
+				]
+			],
+			[
+				102972.972972973,
+				[
+					[
+						"Set Screen Shake Note Intensity",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				103135.135135135,
+				[
+					[
+						"LetterBoxing",
+						"off",
+						"1"
+					],
+					[
+						"Fade Tween",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				103540.54054054,
+				[
+					[
+						"Camera Effect Thing",
+						"2",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				103783.783783784,
+				[
+					[
+						"Add Trail",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				125594.594594594,
+				[
+					[
+						"Camera Effect Thing",
+						"1.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"skipCountdown": null,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Kreker"
+	}
+}

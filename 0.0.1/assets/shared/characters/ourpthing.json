@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				62,
+				-24
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-2,
+				14
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				20,
+				12
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				20,
+				-38
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-34
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Ourpthing",
+	"position": [
+		150,
+		390
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		0,
+		246
+	],
+	"camera_position": [
+		-340,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

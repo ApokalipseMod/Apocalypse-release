@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "newAlly",
+		"player1": "clone-picoV2",
+		"player2": "clone-kreker",
+		"player3": null,
+		"events": [
+			[
+				88358.208955224,
+				[
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157761.194029851,
+				[
+					[
+						"Bloodgurst End",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"reloadTime": 22,
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"skipCountdown": true,
+		"gfVersion": "gf",
+		"shootingEnabled": true,
+		"bpm": 201,
+		"arrowSkin": "",
+		"emptyTime": 21,
+		"needsVoices": true,
+		"damage": 0.4,
+		"song": "Traffik Jamb"
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "PicoDeadTwitching"
+		},
+		{
+			"offsets": [
+				208,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				29,
+				30,
+				31
+			],
+			"name": "PicoDeadConfirmAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "PicoDeadTwitching",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSkeleton",
+	"position": [
+		160,
+		340
+	],
+	"healthicon": "Pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		15,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

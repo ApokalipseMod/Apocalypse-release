@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kreker_StoryMenuUI.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kreker10000" x="0" y="0" width="606" height="341" pivotX="188.15" pivotY="124.7"/>
+	<SubTexture name="kreker10001" x="0" y="0" width="606" height="341"/>
+	<SubTexture name="kreker10002" x="0" y="0" width="606" height="341"/>
+	<SubTexture name="kreker10003" x="0" y="0" width="606" height="341"/>
+	<SubTexture name="kreker10004" x="0" y="341" width="606" height="341"/>
+	<SubTexture name="kreker10005" x="0" y="341" width="606" height="341"/>
+	<SubTexture name="kreker10006" x="0" y="341" width="606" height="341"/>
+	<SubTexture name="kreker10007" x="0" y="341" width="606" height="341"/>
+</TextureAtlas>

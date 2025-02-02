@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Kreker.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGKrekerDown0000" x="0" y="0" width="329" height="235" pivotX="-48.4" pivotY="-174.85" frameX="0" frameY="-13" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0001" x="0" y="0" width="329" height="235" frameX="0" frameY="-13" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0002" x="0" y="0" width="329" height="235" frameX="0" frameY="-13" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0003" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0004" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0005" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0006" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0007" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerDown0008" x="329" y="0" width="305" height="245" frameX="-10" frameY="0" frameWidth="329" frameHeight="248"/>
+	<SubTexture name="BGKrekerIdle0000" x="634" y="0" width="334" height="419" pivotX="-36.85" pivotY="-1.65" frameX="-1" frameY="-2" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0001" x="634" y="0" width="334" height="419" frameX="-1" frameY="-2" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0002" x="634" y="0" width="334" height="419" frameX="-1" frameY="-2" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0003" x="968" y="0" width="338" height="416" frameX="0" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0004" x="968" y="0" width="338" height="416" frameX="0" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0005" x="968" y="0" width="338" height="416" frameX="0" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0006" x="1306" y="0" width="332" height="416" frameX="-8" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0007" x="1306" y="0" width="332" height="416" frameX="-8" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0008" x="1306" y="0" width="332" height="416" frameX="-8" frameY="-5" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0009" x="1638" y="0" width="327" height="421" frameX="-7" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0010" x="1638" y="0" width="327" height="421" frameX="-7" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerIdle0011" x="1638" y="0" width="327" height="421" frameX="-7" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="BGKrekerLeft0000" x="1965" y="0" width="447" height="501" pivotX="-121.95" pivotY="-98.55" frameX="0" frameY="0" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0001" x="1965" y="0" width="447" height="501" frameX="0" frameY="0" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0002" x="2412" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0003" x="2412" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0004" x="2853" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0005" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0006" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0007" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0008" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0009" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0010" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0011" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0012" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerLeft0013" x="3294" y="0" width="441" height="468" frameX="-10" frameY="-33" frameWidth="451" frameHeight="501"/>
+	<SubTexture name="BGKrekerRight0000" x="0" y="501" width="527" height="414" pivotX="-15.4" pivotY="-18" frameX="-8" frameY="0" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0001" x="0" y="501" width="527" height="414" frameX="-8" frameY="0" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0002" x="527" y="501" width="528" height="401" frameX="-2" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0003" x="527" y="501" width="528" height="401" frameX="-2" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0004" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0005" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0006" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0007" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0008" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0009" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0010" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerRight0011" x="1055" y="501" width="528" height="401" frameX="0" frameY="-13" frameWidth="535" frameHeight="414"/>
+	<SubTexture name="BGKrekerUp0000" x="1583" y="501" width="287" height="564" pivotX="-56.55" pivotY="137.6" frameX="-1" frameY="0" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0001" x="1583" y="501" width="287" height="564" frameX="-1" frameY="0" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0002" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0003" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0004" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0005" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0006" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0007" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0008" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0009" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0010" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0011" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0012" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0013" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0014" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0015" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0016" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0017" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0018" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="BGKrekerUp0019" x="1870" y="501" width="291" height="539" frameX="0" frameY="-21" frameWidth="291" frameHeight="564"/>
+	<SubTexture name="KrekerHop0000" x="2161" y="501" width="176" height="175" pivotX="129.15" pivotY="350.75" frameX="0" frameY="-300" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0001" x="2161" y="501" width="176" height="175" frameX="0" frameY="-300" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0002" x="2161" y="501" width="176" height="175" frameX="0" frameY="-300" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0003" x="2161" y="501" width="176" height="175" frameX="0" frameY="-300" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0004" x="2337" y="501" width="177" height="177" frameX="-1" frameY="-301" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0005" x="2337" y="501" width="177" height="177" frameX="-1" frameY="-301" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0006" x="2514" y="501" width="132" height="97" frameX="-63" frameY="-398" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0007" x="2514" y="501" width="132" height="97" frameX="-63" frameY="-398" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0008" x="2646" y="501" width="132" height="96" frameX="-63" frameY="-396" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0009" x="2646" y="501" width="132" height="96" frameX="-63" frameY="-396" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0010" x="2646" y="501" width="132" height="96" frameX="-63" frameY="-396" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0011" x="2778" y="501" width="245" height="244" frameX="-18" frameY="-302" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0012" x="2778" y="501" width="245" height="244" frameX="-18" frameY="-302" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0013" x="3023" y="501" width="522" height="407" frameX="-119" frameY="0" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0014" x="3023" y="501" width="522" height="407" frameX="-119" frameY="0" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0015" x="3545" y="501" width="518" height="419" frameX="-126" frameY="0" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0016" x="0" y="1065" width="528" height="442" frameX="-130" frameY="-2" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0017" x="0" y="1065" width="528" height="442" frameX="-130" frameY="-2" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0018" x="528" y="1065" width="419" height="443" frameX="-150" frameY="-183" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0019" x="528" y="1065" width="419" height="443" frameX="-150" frameY="-183" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0020" x="947" y="1065" width="305" height="243" frameX="-186" frameY="-526" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0021" x="947" y="1065" width="305" height="243" frameX="-186" frameY="-526" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0022" x="1252" y="1065" width="313" height="234" frameX="-183" frameY="-534" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0023" x="1252" y="1065" width="313" height="234" frameX="-183" frameY="-534" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0024" x="1565" y="1065" width="313" height="301" frameX="-175" frameY="-471" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0025" x="1878" y="1065" width="325" height="409" frameX="-168" frameY="-364" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerHop0026" x="1878" y="1065" width="325" height="409" frameX="-168" frameY="-364" frameWidth="658" frameHeight="773"/>
+	<SubTexture name="KrekerWalk0000" x="2203" y="1065" width="303" height="397" pivotX="-39.15" pivotY="-1.5" frameX="-4" frameY="-25" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0001" x="2203" y="1065" width="303" height="397" frameX="-4" frameY="-25" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0002" x="2203" y="1065" width="303" height="397" frameX="-4" frameY="-25" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0003" x="2506" y="1065" width="316" height="388" frameX="-3" frameY="-36" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0004" x="2506" y="1065" width="316" height="388" frameX="-3" frameY="-36" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0005" x="2506" y="1065" width="316" height="388" frameX="-3" frameY="-36" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0006" x="2822" y="1065" width="271" height="374" frameX="-6" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0007" x="2822" y="1065" width="271" height="374" frameX="-6" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0008" x="2822" y="1065" width="271" height="374" frameX="-6" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0009" x="3093" y="1065" width="261" height="381" frameX="0" frameY="0" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0010" x="3093" y="1065" width="261" height="381" frameX="0" frameY="0" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0011" x="3093" y="1065" width="261" height="381" frameX="0" frameY="0" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0012" x="3354" y="1065" width="263" height="373" frameX="-3" frameY="-19" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0013" x="3354" y="1065" width="263" height="373" frameX="-3" frameY="-19" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0014" x="3354" y="1065" width="263" height="373" frameX="-3" frameY="-19" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0015" x="3617" y="1065" width="243" height="379" frameX="-5" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0016" x="3617" y="1065" width="243" height="379" frameX="-5" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0017" x="3617" y="1065" width="243" height="379" frameX="-5" frameY="-22" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0018" x="0" y="1508" width="238" height="409" frameX="-6" frameY="-14" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0019" x="0" y="1508" width="238" height="409" frameX="-6" frameY="-14" frameWidth="319" frameHeight="424"/>
+	<SubTexture name="KrekerWalk0020" x="0" y="1508" width="238" height="409" frameX="-6" frameY="-14" frameWidth="319" frameHeight="424"/>
+</TextureAtlas>

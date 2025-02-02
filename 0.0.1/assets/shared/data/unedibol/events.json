@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				77586.2068965517,
+				[
+					[
+						"Char Tween Prop",
+						"dad",
+						"x,-245,1.3,elasticOut"
+					],
+					[
+						"Char Tween Prop",
+						"dad",
+						"y,65,1.3,elasticOut"
+					]
+				]
+			],
+			[
+				78534.4827586207,
+				[
+					[
+						"Spawn Character",
+						"unedibol-krek",
+						"50,20"
+					],
+					[
+						"Set Char Cam",
+						"unedibol-krek",
+						"false"
+					],
+					[
+						"Play Animation",
+						"hop",
+						"unedibol-krek"
+					]
+				]
+			],
+			[
+				79224.1379310344,
+				[
+					[
+						"Char Tween Prop",
+						"unedibol-krek",
+						"y,120,0.1"
+					]
+				]
+			],
+			[
+				79568.9655172413,
+				[
+					[
+						"Set Char Prop",
+						"unedibol-krek",
+						"y,-140"
+					]
+				]
+			],
+			[
+				80344.8275862069,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.7"
+					]
+				]
+			],
+			[
+				85517.2413793103,
+				[
+					[
+						"Camera Follow Pos",
+						"900",
+						"1900"
+					],
+					[
+						"Camera React Note Sensitivity",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				90517.2413793103,
+				[
+					[
+						"Char Tween Prop",
+						"unedibol-krek",
+						"x,150,0.8"
+					],
+					[
+						"Char Tween Prop",
+						"unedibol-krek",
+						"y,-100,0.8"
+					],
+					[
+						"Play Animation",
+						"walk",
+						"unedibol-krek"
+					],
+					[
+						"Char Tween Prop",
+						"unedibol-krek",
+						"scalex,1,0.8"
+					],
+					[
+						"Char Tween Prop",
+						"uneibol-krek",
+						"scaley,1,0.8"
+					],
+					[
+						"Set Char Cam",
+						"dad",
+						"false"
+					]
+				]
+			],
+			[
+				90775.8620689654,
+				[
+					[
+						"Char Tween Prop",
+						"dad",
+						"x,245,1.3,elasticOut"
+					],
+					[
+						"Char Tween Prop",
+						"dad",
+						"y,-65,1.3,elasticOut"
+					]
+				]
+			],
+			[
+				91034.4827586206,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Camera React Note Sensitivity",
+						"10",
+						""
+					],
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.85"
+					]
+				]
+			],
+			[
+				115172.413793103,
+				[
+					[
+						"Bloodgurst End",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

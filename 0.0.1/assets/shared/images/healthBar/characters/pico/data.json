@@ -1,0 +1,13 @@
+{
+    "winning": "PicoWinningHP",
+    "idle": "PicoNormalHP",
+    "losing": "PicoLosingHP",
+    "scaleOff": 0,
+    "winOffX": 21,
+    "winOffY": 17,
+    "idleOffX": 21,
+    "idleOffY": 17,
+    "losingOffX": 21,
+    "losingOffY": 17,
+    "flip": true
+}

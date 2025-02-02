@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KrekerOurp.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="Idle00000" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00001" x="150" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00002" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00003" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00004" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00005" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00006" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00007" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00008" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="Idle00009" x="450" y="0" width="150" height="150"/>
+	<SubTexture name="Down00000" x="600" y="0" width="150" height="150"/>
+	<SubTexture name="Down00001" x="0" y="150" width="150" height="150"/>
+	<SubTexture name="Up00000" x="150" y="150" width="150" height="150"/>
+	<SubTexture name="Up00001" x="300" y="150" width="150" height="150"/>
+	<SubTexture name="Left00000" x="450" y="150" width="150" height="150"/>
+	<SubTexture name="Left00001" x="600" y="150" width="150" height="150"/>
+	<SubTexture name="Right00000" x="0" y="300" width="150" height="150"/>
+	<SubTexture name="Right00001" x="150" y="300" width="150" height="150"/>
+	<SubTexture name="Down Miss00000" x="300" y="300" width="150" height="150"/>
+	<SubTexture name="Down Miss00001" x="450" y="300" width="150" height="150"/>
+	<SubTexture name="Up Miss00000" x="600" y="300" width="150" height="150"/>
+	<SubTexture name="Up Miss00001" x="0" y="450" width="150" height="150"/>
+	<SubTexture name="Left Miss00000" x="150" y="450" width="150" height="150"/>
+	<SubTexture name="Left Miss00001" x="300" y="450" width="150" height="150"/>
+	<SubTexture name="Right Miss00000" x="450" y="450" width="150" height="150"/>
+	<SubTexture name="Right Miss00001" x="600" y="450" width="150" height="150"/>
+</TextureAtlas>

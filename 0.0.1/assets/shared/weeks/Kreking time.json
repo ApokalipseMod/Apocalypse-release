@@ -1,0 +1,179 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bloodgurst",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bloodgurst OG",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bloodgurst Beta",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Traffik Jamb",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Traffik Jamb OG",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Unedibol",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Unedibol Beta",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Booze",
+			"kreker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Booze Beta",
+			"kreker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"BumBumE",
+			"kreker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Flibbis",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Prank Call",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Short Fuse",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Sour",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Freeway",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Beckler",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Ivory",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Vista",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Kreking Time!!!"
+}

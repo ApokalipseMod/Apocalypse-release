@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "kreco shoot"
+		},
+		{
+			"offsets": [
+				-499,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PicoIdle"
+		},
+		{
+			"offsets": [
+				-432,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PicoLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-386,
+				-218
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-491,
+				-232
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-461,
+				-151
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-414,
+				-208
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "LeftMiss"
+		},
+		{
+			"offsets": [
+				-458,
+				-142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "UpMiss"
+		},
+		{
+			"offsets": [
+				-379,
+				-214
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "RightMiss"
+		},
+		{
+			"offsets": [
+				-490,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "DownMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bico",
+	"position": [
+		-580,
+		120
+	],
+	"healthicon": "kreker-pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		255,
+		0
+	],
+	"camera_position": [
+		-490,
+		340
+	],
+	"sing_duration": 10,
+	"scale": 1.15
+}

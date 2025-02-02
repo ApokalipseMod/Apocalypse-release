@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-412,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KrekIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-410,
+				-217
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KrekLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-331,
+				-199
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KrekRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-398,
+				-172
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KrekUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-432,
+				-313
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KrekDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kreg",
+	"position": [
+		-380,
+		150
+	],
+	"healthicon": "kreker",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		0,
+		0
+	],
+	"camera_position": [
+		520,
+		360
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

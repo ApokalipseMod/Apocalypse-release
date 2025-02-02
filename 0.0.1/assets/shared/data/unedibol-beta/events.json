@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "Clone-allyway",
+		"player1": "clone-pico",
+		"player2": "clone-kreker",
+		"player3": null,
+		"events": [
+			[
+				78000,
+				[
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"skipCountdown": null,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Unedibol"
+	}
+}

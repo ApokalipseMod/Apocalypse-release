@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idle_MenuUI.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="460" height="179" pivotX="0.5" pivotY="1.1" frameX="0" frameY="-1" frameWidth="460" frameHeight="180"/>
+	<SubTexture name="idle0001" x="0" y="0" width="460" height="179" frameX="0" frameY="-1" frameWidth="460" frameHeight="180"/>
+	<SubTexture name="idle0002" x="0" y="0" width="460" height="179" frameX="0" frameY="-1" frameWidth="460" frameHeight="180"/>
+	<SubTexture name="idle0003" x="0" y="0" width="460" height="179" frameX="0" frameY="-1" frameWidth="460" frameHeight="180"/>
+	<SubTexture name="idle0004" x="460" y="0" width="460" height="180"/>
+	<SubTexture name="idle0005" x="460" y="0" width="460" height="180"/>
+	<SubTexture name="idle0006" x="460" y="0" width="460" height="180"/>
+	<SubTexture name="idle0007" x="460" y="0" width="460" height="180"/>
+	<SubTexture name="hover0000" x="0" y="180" width="479" height="198" pivotX="8" pivotY="8" frameX="0" frameY="0" frameWidth="480" frameHeight="198"/>
+	<SubTexture name="hover0001" x="0" y="180" width="479" height="198" frameX="0" frameY="0" frameWidth="480" frameHeight="198"/>
+	<SubTexture name="hover0002" x="479" y="180" width="477" height="196" frameX="-3" frameY="-1" frameWidth="480" frameHeight="198"/>
+	<SubTexture name="hover0003" x="479" y="180" width="477" height="196" frameX="-3" frameY="-1" frameWidth="480" frameHeight="198"/>
+</TextureAtlas>
